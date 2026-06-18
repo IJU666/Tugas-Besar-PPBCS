@@ -44,10 +44,10 @@ class Member {
 final List<Member> members = [
   // ── ANGGOTA 1 ──────────────────────────────────────────
   Member(
-    name: 'Nawa ', // TODO: ganti nama
-    nim: 'NIM / ID 1', // TODO: ganti NIM
+    name: 'Nawa Bayhaqi', // TODO: ganti nama
+    nim: '230102092', // TODO: ganti NIM
     role: 'Ketua', // TODO: ganti peran
-    quote: '"Tulis motto di sini"', // TODO: ganti quote
+    quote: '"Yamaha M3"', // TODO: ganti quote
     cardColor: const Color(0xFF6C63FF),
     icon: Icons.person,
   ),

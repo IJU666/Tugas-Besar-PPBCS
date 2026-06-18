@@ -44,7 +44,7 @@ class Member {
 final List<Member> members = [
   // ── ANGGOTA 1 ──────────────────────────────────────────
   Member(
-    name: 'Nama Anggota 1', // TODO: ganti nama
+    name: 'Nawa ', // TODO: ganti nama
     nim: 'NIM / ID 1', // TODO: ganti NIM
     role: 'Ketua', // TODO: ganti peran
     quote: '"Tulis motto di sini"', // TODO: ganti quote
@@ -64,10 +64,10 @@ final List<Member> members = [
 
   // ── ANGGOTA 3 ──────────────────────────────────────────
   Member(
-    name: 'Nama Anggota 3', // TODO: ganti nama
-    nim: 'NIM / ID 3', // TODO: ganti NIM
-    role: 'Bendahara', // TODO: ganti peran
-    quote: '"Tulis motto di sini"', // TODO: ganti quote
+    name: 'Fauzi Maulana Akbar', // TODO: ganti nama
+    nim: '230102049', // TODO: ganti NIM
+    role: 'Belakang', // TODO: ganti peran
+    quote: '"Kesana Kemari"', // TODO: ganti quote
     cardColor: const Color(0xFFFF6B6B),
     icon: Icons.person,
   ),

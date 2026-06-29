@@ -57,11 +57,7 @@ final List<Member> members = [
     name: 'Daffa Aqyla Riyadi', // TODO: ganti nama
     nim: '230102031', // TODO: ganti NIM
     role: 'Roll Depan', // TODO: ganti peran
-    quote: '"Dihina Tidak Tumbang Dipoyok Tiap Hari Bang"', // TODO: ganti quote
-    name: 'Nama Anggota 2', // TODO: ganti nama
-    nim: 'NIM / ID 2', // TODO: ganti NIM
-    role: 'Sekretaris', // TODO: ganti peran
-    quote: '"Tulis motto di sini"', // TODO: ganti quote
+    quote: '"Dihina Tidak Tumbang Dipoyok Tiap Hari Bang"', // TODO: ganti quotes
     cardColor: const Color(0xFF43BCA8),
     icon: Icons.person,
   ),
